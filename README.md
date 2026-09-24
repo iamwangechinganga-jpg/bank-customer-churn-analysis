@@ -186,14 +186,13 @@ The dashboards were built in Tableau using a Tableau Prep output dataset.
 bank-customer-churn-analysis/
 │
 ├── README.md
+│
 ├── business_analysis_questions.sql
 ├── churn_data_EDA.sql
 ├── churn_data_cleaning.sql
-└── data_audit.sql
+├── data_audit.sql
 │
-├── tableau/
-│   ├── dashboard_1_overview.png
-│   └── dashboard_2_activity_churn.png
+├── Bank Customer Churn Dashboard.png
+└── Active Member Status & Observed Churn.png
 │
-└── data/
-    └── README.md
+
