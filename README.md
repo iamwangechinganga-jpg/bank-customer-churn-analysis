@@ -157,6 +157,8 @@ The first dashboard provides an overview of customer churn across demographic an
 - Age
 - Number of products
 
+![Bank Customer Churn Dashboard](Bank%20Customer%20Churn%20Dashboard.png)
+
 ### Dashboard 2: Active Member Status & Observed Churn
 
 The second dashboard examines observed churn by activity status across:
@@ -164,6 +166,8 @@ The second dashboard examines observed churn by activity status across:
 - Age
 - Balance
 - Number of products
+
+![Active Member Status & Observed Churn](Active%20Member%20Status%20%26%20Observed%20Churn.png)
 
 The dashboards were built in Tableau using a Tableau Prep output dataset.
 
